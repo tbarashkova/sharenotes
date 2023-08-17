@@ -1,6 +1,6 @@
 # ShareNotes
 
-![ShareNotes Logo](./public/favicon.svg)
+<img src="./public/favicon.svg" alt="ShareNotes Logo" width="150" height="150" />
 
 ## Overview
 
@@ -28,8 +28,15 @@ To read a note using note **ID**, please go to Note section and enter note ID.
 
 ## Live Demo
 
-Check out the live demo [here]().
+Check out the live demo [here]('http://185.69.154.128/').
 
 ## Preview
 
-![Home page](./public/preview/sharenotes1.png)
+![Home page](react_project/public/preview/sharenotes1.png)
+![Note page](react_project/public/preview/sharenotes2.png)
+![Create page](react_project/public/preview/sharenotes3.png)
+![Note created](react_project/public/preview/sharenotes4.png)
+![Note search](react_project/public/preview/sharenotes5.png)
+![Note reviewe](react_project/public/preview/sharenotes6.png)
+![Note not found](react_project/public/preview/sharenotes7.png)
+![About page](react_project/public/preview/sharenotes8.png)
