@@ -13,7 +13,7 @@ ShareNotes is a service for quick writing and sharing notes.
 - **Read a note**:
   There are 2 ways to acess your note:
 
-1. Using URL. For instance, http://sharenotes/note/pnezclswqv6gdrbbohklymlt, or
+1. Using URL. For instance, http://185.69.154.128/note/pnezclswqv6gdrbbohklymlt, or
 2. Using note ID. Note ID is the last part of URL. In the example above note ID is pnezclswqv6gdrbbohklymlt.
 
 To read a note using **URl** just copy link to search bar of your browser.
@@ -29,7 +29,7 @@ To read a note using note **ID**, please go to Note section and enter note ID.
 
 ## Live Demo
 
-Check out the live demo [here]('http://185.69.154.128/').
+Check out the live demo [here](http://185.69.154.128/).
 
 ## Preview
 
