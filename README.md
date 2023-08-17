@@ -25,6 +25,7 @@ To read a note using note **ID**, please go to Note section and enter note ID.
 
 - React
 - Bootstrap
+- MySQL
 
 ## Live Demo
 
