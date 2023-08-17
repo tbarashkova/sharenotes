@@ -1,6 +1,6 @@
 # ShareNotes
 
-<img src="./public/favicon.svg" alt="ShareNotes Logo" width="150" height="150" />
+<img src="react_project/public/favicon.svg" alt="ShareNotes Logo" width="150" height="150" />
 
 ## Overview
 
